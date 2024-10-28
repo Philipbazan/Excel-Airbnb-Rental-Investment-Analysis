@@ -1,5 +1,5 @@
 # Excel-Airbnb-Rental-Investment-Analysis
-Project Link: https://docs.google.com/spreadsheets/d/1oRqedcTyJUbjffimmSklRnZwha5YC1Ka8rg4Oml9JQA/edit?usp=sharing 
+[Project Link](https://docs.google.com/spreadsheets/d/1oRqedcTyJUbjffimmSklRnZwha5YC1Ka8rg4Oml9JQA/edit?usp=sharing)
 
 ## Introduction
 
